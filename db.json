@@ -1,0 +1,155 @@
+{
+  "users": [
+    {
+      "id": "0.4905667669685281Thu May 25 2023 12:55:08 GMT+0530 (India Standard Time)Abhishek swami",
+      "name": "Abhishek swami",
+      "email": "abhi@gmail.com",
+      "password": "1234",
+      "isDoctor": true
+    },
+    {
+      "id": "0.3538258899515301Thu May 25 2023 13:31:36 GMT+0530 (India Standard Time)ashu",
+      "name": "ashu",
+      "email": "ayushi@gmail.com",
+      "password": "1234",
+      "isDoctor": false
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Psychiatrist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2000-04-05T12:00:00.000Z",
+      "slots": 0,
+      "fee": 150
+    },
+    {
+      "id": 2,
+      "name": "Mark Johnson",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2001-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    },
+    {
+      "id": 3,
+      "name": "Jane Doe",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Psychiatrist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2002-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "id": 4,
+      "name": "Mark Johnson",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2003-04-06T09:30:00.000Z",
+      "slots": 0,
+      "fee": 100
+    },
+    {
+      "id": 5,
+      "name": "Jane Doe",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Psychiatrist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2004-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "id": 6,
+      "name": "Mark Johnson",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Cardiologist",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2005-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    },
+    {
+      "id": 7,
+      "name": "Jane Doe",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2006-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "id": 7,
+      "name": "Mark Johnson",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Cardiologist",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2007-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    },
+    {
+      "id": 9,
+      "name": "Jane Doe",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2008-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "id": 10,
+      "name": "Mark Johnson",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Cardiologist",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2009-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    },
+    {
+      "id": 11,
+      "name": "Jane Doe",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2010-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "id": 12,
+      "name": "Mark Johnson",
+      "image": "https://thumbs.dreamstime.com/z/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Cardiologist",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2011-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
